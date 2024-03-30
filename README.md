@@ -3,9 +3,10 @@ BDA 594 final project
 
 ### Members
 @ManishaMatta
+@Mahalakshmi-Code
 @anurima-saha
 @fernandacarrillo08
-@Mahalakshmi-Code
+
 
 ### Objective
 
@@ -25,7 +26,6 @@ This initiative is crucial for enhancing our understanding of crime dynamics in 
 * Random forest Algorithm
 * Logistic regression Algorithm
 
-#### Website Link : https://sites.google.com/sdsu.edu/crime-alytics?usp=sharing / https://sites.google.com/sdsu.edu/crime-alytics/home
 #### Streamlit App : https://crimealytics-bda594.streamlit.app/
 <img width="1088" alt="Screenshot 2023-12-13 at 2 34 57 PM" src="https://github.com/ManishaMatta/CrimeAlytics/assets/50313389/0594a0da-aa69-46bc-9bd4-7d4c553bf1fe">
 #### Tableau Dashboard : 
