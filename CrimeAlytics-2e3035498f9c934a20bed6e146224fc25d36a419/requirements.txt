@@ -1,0 +1,9 @@
+pip
+streamlit
+numpy
+pandas
+seaborn
+scikit-learn
+xgboost
+setuptools
+wheel
